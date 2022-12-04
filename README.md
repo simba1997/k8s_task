@@ -40,6 +40,7 @@ http://.../ynet → ynet service http://.../bitcoin → bitcoin service
 ![last_1](https://user-images.githubusercontent.com/72957443/205513949-f7faf290-777d-416c-b3ee-b922086aa7d8.jpeg)
 
 Now you can visit these two websites using the following URLs: 
+
 http://localhost/ynet 
 
 ![ynet_1](https://user-images.githubusercontent.com/72957443/205513922-6f6ba9da-ba3b-4b82-9d42-fa5586bbd7dd.jpeg)
