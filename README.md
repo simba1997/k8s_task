@@ -5,11 +5,6 @@
 
 
 
-ADDED TWO DOCKER CONTAINERS TO DOCKERHUB
-
-
-![dockerhub_1](https://user-images.githubusercontent.com/72957443/205513972-19d2abf4-7bf3-4055-91c5-c11ce2a4ea89.jpeg)
-
 # Kubernetes Task: 
 Here is the task specifications: 
 Please use your last two homework assignments:
@@ -26,6 +21,11 @@ Please use your last two homework assignments:
 
 http://.../ynet → ynet service http://.../bitcoin → bitcoin service
 
+
+ADDED TWO DOCKER CONTAINERS TO DOCKERHUB
+
+
+![dockerhub_1](https://user-images.githubusercontent.com/72957443/205513972-19d2abf4-7bf3-4055-91c5-c11ce2a4ea89.jpeg)
 
 
 ## How to Run the code? 
