@@ -1,11 +1,11 @@
-# k8s_task
+# k8s_TASK
 
 ![k8s](https://user-images.githubusercontent.com/72957443/205514141-3b5b18ae-e1f4-48eb-a6a2-af9651086e06.jpeg)
 
 
 
 
-
+ADDED TWO DOCKER CONTAINERS TO DOCKERHUB
 
 
 ![dockerhub_1](https://user-images.githubusercontent.com/72957443/205513972-19d2abf4-7bf3-4055-91c5-c11ce2a4ea89.jpeg)
